@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarvelEkwomadu
 - 👀 I’m interested in ... software development..Data science ML and AI
 - 🌱 I’m currently learning ... data sciene ML and AI.. loving .py
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... data science ML and Ai projects,open to developing  softwares
 - 📫 How to reach me ... marvellousekwomadu8@gmail.com
 - 😄 Pronouns: ... He/Him/His
 - ⚡ Fun fact: ...I always create new softwares in my head LoL!
